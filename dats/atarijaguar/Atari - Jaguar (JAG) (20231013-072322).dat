@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>2</id>
+		<name>Atari - Jaguar (JAG)</name>
+		<description>Atari - Jaguar (JAG)</description>
+		<version>20231013-072322</version>
+		<author>Arctic Circle System, baldjared, BigFred, BitLooter, EggmanPEI, halftheisland, Hiccup, nnssxx, NovaAurora, omonim2007, rarenight, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Painter (World) (1995-12-29) (Unl)" id="0141">
+		<category>Games</category>
+		<description>Painter (World) (1995-12-29) (Unl)</description>
+		<rom name="Painter (World) (1995-12-29) (Unl).jag" size="163146" crc="27c7c6a3" md5="4406a84d18aed221c086215248ed66a4" sha1="6f58b9907b178eabc1f385eb19b2a7a38d9df586" sha256="185cb83020da44fccfd7e8371257669a6e2c29e89a8dc723969ffddb27e01c32"/>
+	</game>
+</datafile>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>30</id>
+		<name>Atari - Lynx (LNX)</name>
+		<description>Atari - Lynx (LNX)</description>
+		<version>20240701-235024</version>
+		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, omonim2007, Psychofox11, rarenight, relax, UnlockerPT, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Mines 2 (World) (Demo) (Unl)" id="0268">
+		<category>Games</category>
+		<description>Mines 2 (World) (Demo) (Unl)</description>
+		<rom name="Mines 2 (World) (Demo) (Unl).lnx" size="262208" crc="e0a31b32" md5="b53aa250116a44e2877fd6b40e2e36e9" sha1="b4526971a4f43ca1753d07a482ea2efdb603b6e7" sha256="b5287b51c339efd32856c18231e83ac541b4123221c3d59e8df79665131979bf"/>
+	</game>
+	<game name="Puzzler 2000 (World) (Proto) (Unl)" id="0282">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Puzzler 2000 (World) (Proto) (Unl)</description>
+		<rom name="Puzzler 2000 (World) (Proto) (Unl).lnx" size="262208" crc="d7241881" md5="8de649611b61934b67b2ee8dde47e603" sha1="0804caa4e15bcde2a51b475103787539c2578d0a" sha256="cab2668156e3c21ff73595d31edc9bad5d31d0632b360f6fb9fbdd287fe2c2b9"/>
+	</game>
+	<game name="Raiden (USA) (Beta)" id="0060" cloneofid="0101">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Raiden (USA) (Beta)</description>
+		<rom name="Raiden (USA) (Beta).lnx" size="262208" crc="d62fe6bf" md5="c51f494e41bbc5f9c2900e9467c5d4cd" sha1="469aa2d72959de155466e84cc284a06609389a2d" sha256="6014d2451219edfe4370c0c6335208df0ef19ac4e54bcd170aa697013956a746"/>
+	</game>
+	<game name="Zaku (World) (Unl)" id="0092">
+		<category>Games</category>
+		<description>Zaku (World) (Unl)</description>
+		<rom name="Zaku (World) (Unl).lnx" size="524352" crc="3d82e190" md5="b37cf00379b80452d8bca13abe7269d6" sha1="6377dd0ef9bee6b6bd05736dadd2b36c0a02b8c3" sha256="82ab7f3700c529635478dfa49c835ae1ceb8813ff4166ed5a7f9163fe058af2c"/>
+	</game>
+	<game name="Zaku (World) (Beta) (Unl)" id="0093" cloneofid="0092">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Zaku (World) (Beta) (Unl)</description>
+		<rom name="Zaku (World) (Beta) (Unl).lnx" size="262208" crc="8819e916" md5="6c22f4e6acd7aeef5fd134fcbca05715" sha1="24c2f137d4a8040762b8b5f669918675e53637b4" sha256="99e51f540dd6fc98b995715029df176d9d036a3498e308e032f1122e5e1c2bb8"/>
+	</game>
+</datafile>
